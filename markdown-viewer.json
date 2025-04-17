@@ -1,0 +1,10 @@
+{
+    "extract_dir": "markdown-viewer",
+    "bin": [
+        [ "markdown-viewer.exe", "markdown-viewer", "" ]
+    ],
+    "license": "MIT",
+    "hash": "8f359108afcb5d367156fe41f75acbd1eb359dbd5eee82aa0a67cf07f20e6453",
+    "version": "0.1.0",
+    "url": "https://github.com/relbis-labs/packages-markdown-viewer/releases/download/v0.1.0/markdown-viewer_0.1.0.zip"
+}
